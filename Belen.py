@@ -8,7 +8,7 @@ env = Environment(loader=FileSystemLoader("templates/"))
 name = 'Belen'
 include = '{$INCLUDE CHAINER_SCRIPTS/'
 username = 'belentokyo@gmail.com'
-password = 'Remerexosrs123'
+password = ''
 levels = [1, 1, 1, 1, 1]
 daysAlive = 0
 
